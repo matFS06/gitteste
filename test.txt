@@ -1,0 +1,23 @@
+1. Clonar o repositório original para sua máquina:
+git clone https://github.com/seu-usuario/gitteste.git
+
+2. Acessar o diretório do projeto:
+cd gitteste
+
+
+3. Criar uma nova branch para sua funcionalidade:
+git checkout -b minha-funcionalidade
+
+
+5. Adicionar suas mudanças para o commit:
+git add .
+
+6. Fazer um commit com uma mensagem descritiva:
+git commit -m "Implementa a funcionalidade X"
+
+7. Subir sua branch para o repositório remoto:
+git push origin minha-funcionalidade
+
+1. Atualizar sua branch local com git pull:
+git pull origin main
+
